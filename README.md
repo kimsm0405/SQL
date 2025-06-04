@@ -9,9 +9,9 @@ Studying SQL
 이 레포지토리는 SQL을 학습하며 다양한 데이터베이스 관련 문제를 해결하고, 개념을 정리하는 공간입니다. 실전 경험을 쌓고, 데이터를 효율적으로 다룰 수 있도록 하는 것이 목표입니다.
 
 ## 개발 환경 🛠️
-- **OS: ** Windows 11
-- **데이터베이스 시스템:** MySQL, PostgreSQL, SQLite
-- **SQL 실행 도구:** MySQL Workbench, DBeaver, VS Code SQL 확장
+- **OS:** Windows 11
+- **데이터베이스 시스템:** Oracle, MySQL, PostgreSQL, SQLite
+- **SQL 실행 도구:** SQL Developer, MySQL Workbench, DBeaver, VS Code SQL 확장
 - **코드 관리:** Jupyter Notebook, SQL 파일 (`.sql`)
 
 ## 학습 목적 🎯
