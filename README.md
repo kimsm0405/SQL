@@ -1,7 +1,3 @@
-#SQL
-------------------------------------------------------------
-Studying SQL
-
 # SQL Study Repository 🗂️
 ------------------------------------------------------------
 ![js](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
