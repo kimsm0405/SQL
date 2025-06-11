@@ -17,14 +17,13 @@
 - 데이터 분석 및 최적화 기법 학습
 
 ## 내용 ✍️
-📁SQL Study
+[📁SQL Study](https://github.com/kimsm0405/SQL/tree/main/SQL%20Study)
 
-3 복수행 함수
+[3 복수행 함수](https://github.com/kimsm0405/SQL/blob/main/SQL%20Study/3.sql)
 
-4  JOIN
+[4  JOIN](https://github.com/kimsm0405/SQL/blob/main/SQL%20Study/4.sql)
 
-5 DDL 명령과 딕셔너리
+[5 DDL 명령과 딕셔너리](https://github.com/kimsm0405/SQL/blob/main/SQL%20Study/5.sql)
 
-6 DML로 데이터를 관리하는 방법
+[6 DML로 데이터를 관리하는 방법](https://github.com/kimsm0405/SQL/blob/main/SQL%20Study/6.sql)
 
----누락된 내용은 추가 예정
